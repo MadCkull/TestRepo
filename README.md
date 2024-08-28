@@ -33,8 +33,8 @@ Greetings, digital explorer! I'm MadCkull, a passionate developer and creative t
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadCkull&repo=awesome-project&theme=midnight-purple)](https://github.com/MadCkull/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadCkull&repo=cool-app&theme=midnight-purple)](https://github.com/MadCkull/cool-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadCkull&repo=MadEye&theme=midnight-purple)](https://github.com/MadCkull/MadEye)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadCkull&repo=WSAppBak&theme=midnight-purple)](https://github.com/MadCkull/WSAppBak)
 
 </div>
 
@@ -58,7 +58,7 @@ Greetings, digital explorer! I'm MadCkull, a passionate developer and creative t
 
 <div align="center">
 
-![MadCkull's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MadCkull&theme=github-compact)
+![MadCkull's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MadCkull&theme=github-compact)
 
 </div>
 
@@ -72,14 +72,6 @@ Greetings, digital explorer! I'm MadCkull, a passionate developer and creative t
 
 </div>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Exploring the Depths of Machine Learning](https://madckull.dev/blog/machine-learning-depths)
-- [The Art of Clean Code: Best Practices for Developers](https://madckull.dev/blog/clean-code-art)
-- [Navigating the World of Cybersecurity in 2024](https://madckull.dev/blog/cybersecurity-2024)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🎵 Now Playing
 
 [![Spotify](https://novatorem-madckull.vercel.app/api/spotify)](https://open.spotify.com/user/MadCkull)
@@ -89,8 +81,8 @@ Greetings, digital explorer! I'm MadCkull, a passionate developer and creative t
 <div align="center">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MadCkull.MadCkull)
-[![GitHub Stars](https://img.shields.io/github/stars/MadCkull/MadCkull?style=social)](https://github.com/MadCkull/MadCkull)
-[![GitHub Forks](https://img.shields.io/github/forks/MadCkull/MadCkull?style=social)](https://github.com/MadCkull/MadCkull)
+[![GitHub Stars](https://img.shields.io/github/stars/MadCkull/MadEye?style=social)](https://github.com/MadCkull/MadEye)
+[![GitHub Forks](https://img.shields.io/github/forks/MadCkull/MadEye?style=social)](https://github.com/MadCkull/MadEye)
 
 </div>
 
