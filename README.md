@@ -11,3 +11,6 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MadCkull&theme=transparent&utcOffset=5" alt="Image 1" align="left" style="width: 29%;"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadCkull&theme=transparent" alt="Image 2" align="right" style="width: 60%;"/>
+
+
+![Snake animation](https://github.com/MadCkull/TestRepo/blob/output/github-contribution-grid-snake.svg)
